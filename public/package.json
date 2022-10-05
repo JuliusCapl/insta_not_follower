@@ -1,0 +1,25 @@
+{
+  "name": "insta_not_followers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myAppServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliusCapl/insta_not_follower.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliusCapl/insta_not_follower/issues"
+  },
+  "homepage": "https://github.com/JuliusCapl/insta_not_follower#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mime-types": "^2.1.35",
+    "multer": "^1.4.5-lts.1"
+  }
+}
